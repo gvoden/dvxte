@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:11.6-slim
 MAINTAINER Dave van Stein <dvanstein@qxperts.io>
 
 # --- Set up base environment ---
